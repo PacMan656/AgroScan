@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "title": "Dica sobre Plantio: Escolha de Sementes",
+        "description": "Escolha sementes certificadas para garantir alta qualidade e resistência das suas culturas.",
+        "category": "Plantio"
+    },
+    {
+        "id": 2,
+        "title": "Dica sobre Irrigação: Planejamento da Irrigação",
+        "description": "Planeje sua irrigação de acordo com a necessidade de cada cultura e a umidade do solo.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 3,
+        "title": "Dica sobre Pragas: Controle de Lagartas",
+        "description": "Utilize produtos biológicos para controlar a infestação de lagartas nas suas plantações.",
+        "category": "Pragas"
+    },
+    {
+        "id": 4,
+        "title": "Dica sobre Fertilização: Uso de Fertilizantes Orgânicos",
+        "description": "Invista em fertilizantes orgânicos para melhorar a qualidade do solo e a saúde das plantas.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 5,
+        "title": "Dica sobre Colheita: Momento Ideal",
+        "description": "Colha seus produtos no momento ideal para garantir a máxima qualidade e sabor.",
+        "category": "Colheita"
+    },
+    {
+        "id": 6,
+        "title": "Dica sobre Plantio: Preparo do Solo",
+        "description": "Antes do plantio, prepare bem o solo com adubação e aração para garantir boas raízes.",
+        "category": "Plantio"
+    },
+    {
+        "id": 7,
+        "title": "Dica sobre Irrigação: Irrigação por Gotejamento",
+        "description": "Use sistemas de irrigação por gotejamento para economizar água e direcionar a irrigação diretamente às raízes.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 8,
+        "title": "Dica sobre Pragas: Monitoramento Regular",
+        "description": "Realize o monitoramento regular de suas plantações para detectar pragas em estágios iniciais.",
+        "category": "Pragas"
+    },
+    {
+        "id": 9,
+        "title": "Dica sobre Fertilização: Fertilização Balanceada",
+        "description": "Sempre faça uma análise do solo antes de aplicar fertilizantes, para não sobrecarregar as plantas com nutrientes.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 10,
+        "title": "Dica sobre Colheita: Colheita de Frutas",
+        "description": "Colha as frutas pela manhã, quando as temperaturas são mais amenas, para garantir melhor conservação.",
+        "category": "Colheita"
+    },
+    {
+        "id": 11,
+        "title": "Dica sobre Plantio: Diversificação de Culturas",
+        "description": "Diversifique suas culturas para reduzir riscos de pragas e melhorar a saúde do solo.",
+        "category": "Plantio"
+    },
+    {
+        "id": 12,
+        "title": "Dica sobre Irrigação: Evite Irrigação Excessiva",
+        "description": "Evite o excesso de água, pois pode causar o apodrecimento das raízes e a proliferação de fungos.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 13,
+        "title": "Dica sobre Pragas: Controle de Formigas",
+        "description": "Utilize iscas para controlar a população de formigas e prevenir danos às plantas.",
+        "category": "Pragas"
+    },
+    {
+        "id": 14,
+        "title": "Dica sobre Fertilização: Evite o Uso Excessivo de Nitrogênio",
+        "description": "Evite o uso excessivo de nitrogênio, pois isso pode prejudicar o crescimento das raízes e afetar a qualidade dos frutos.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 15,
+        "title": "Dica sobre Colheita: Armazenamento Pós-Colheita",
+        "description": "Armazene os produtos de forma adequada, respeitando as condições de temperatura e umidade para evitar perdas.",
+        "category": "Colheita"
+    },
+    {
+        "id": 16,
+        "title": "Dica sobre Plantio: Plantio Direto",
+        "description": "Adote o plantio direto para minimizar o impacto do solo e melhorar a retenção de água.",
+        "category": "Plantio"
+    },
+    {
+        "id": 17,
+        "title": "Dica sobre Irrigação: Monitore a Umidade do Solo",
+        "description": "Monitore a umidade do solo para saber quando é o momento certo de irrigar suas plantações.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 18,
+        "title": "Dica sobre Pragas: Proteção contra Moscas Brancas",
+        "description": "Use armadilhas adesivas para controlar a população de moscas brancas e evitar danos às plantas.",
+        "category": "Pragas"
+    },
+    {
+        "id": 19,
+        "title": "Dica sobre Fertilização: Nutrientes para Folhagem",
+        "description": "Utilize fertilizantes ricos em fósforo e potássio para promover uma boa folhagem e florescimento.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 20,
+        "title": "Dica sobre Colheita: Proteção Durante a Colheita",
+        "description": "Use luvas e ferramentas adequadas para evitar danos durante o processo de colheita.",
+        "category": "Colheita"
+    },
+    {
+        "id": 21,
+        "title": "Dica sobre Plantio: Melhor Época para Plantio",
+        "description": "Escolha a melhor época para o plantio, considerando o clima e as estações do ano para garantir o sucesso da colheita.",
+        "category": "Plantio"
+    },
+    {
+        "id": 22,
+        "title": "Dica sobre Irrigação: Evite Irrigar Durante o Sol Forte",
+        "description": "Evite irrigar durante o pico do sol, pois a evaporação será muito rápida e a água não atingirá as raízes.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 23,
+        "title": "Dica sobre Pragas: Controle de Pulgões",
+        "description": "Use inseticidas naturais ou sabonetes inseticidas para controlar a infestação de pulgões.",
+        "category": "Pragas"
+    },
+    {
+        "id": 24,
+        "title": "Dica sobre Fertilização: Ajuste a Fertilização ao Tipo de Solo",
+        "description": "Ajuste a aplicação de fertilizantes com base no tipo de solo e nas necessidades específicas de cada planta.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 25,
+        "title": "Dica sobre Colheita: Colheita de Legumes",
+        "description": "Colha os legumes antes que atinjam o ponto de maturação completa, para evitar que fiquem fibrosos e amargos.",
+        "category": "Colheita"
+    },
+    {
+        "id": 26,
+        "title": "Dica sobre Plantio: Considere o Espaçamento",
+        "description": "Respeite o espaçamento adequado entre as plantas para que possam se desenvolver plenamente.",
+        "category": "Plantio"
+    },
+    {
+        "id": 27,
+        "title": "Dica sobre Irrigação: Regue em Menor Quantidade, com Frequência",
+        "description": "Regue em pequenas quantidades, mas com maior frequência, para garantir uma boa absorção pelas raízes.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 28,
+        "title": "Dica sobre Pragas: Controle de Lesmas e Caracóis",
+        "description": "Utilize armadilhas ou barreiras físicas para controlar a presença de lesmas e caracóis nas plantações.",
+        "category": "Pragas"
+    },
+    {
+        "id": 29,
+        "title": "Dica sobre Fertilização: Adubação Verde",
+        "description": "Utilize adubação verde, como feijão-guandu, para enriquecer o solo com nitrogênio de forma natural.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 30,
+        "title": "Dica sobre Colheita: Respeite o Ciclo de Crescimento",
+        "description": "Respeite o ciclo natural de crescimento das plantas para garantir uma colheita mais rica e saudável.",
+        "category": "Colheita"
+    },
+    {
+        "id": 31,
+        "title": "Dica sobre Plantio: Escolha a Variedade Certa",
+        "description": "Escolha a variedade de sementes ou mudas mais adequada para o clima da sua região.",
+        "category": "Plantio"
+    },
+    {
+        "id": 32,
+        "title": "Dica sobre Irrigação: Irrigação de Suporte",
+        "description": "Use a irrigação de suporte apenas durante os períodos de seca para garantir que as plantas sobrevivam.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 33,
+        "title": "Dica sobre Pragas: Prevenção de Doenças Fúngicas",
+        "description": "Utilize fungicidas naturais ou orgânicos para prevenir doenças fúngicas nas suas plantas.",
+        "category": "Pragas"
+    },
+    {
+        "id": 34,
+        "title": "Dica sobre Fertilização: Calagem do Solo",
+        "description": "Realize a calagem do solo para corrigir a acidez e melhorar a absorção de nutrientes pelas plantas.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 35,
+        "title": "Dica sobre Colheita: Colheita de Grãos",
+        "description": "Colha os grãos quando estiverem secos e maduros, para evitar que percam qualidade e nutrientes.",
+        "category": "Colheita"
+    },
+    {
+        "id": 36,
+        "title": "Dica sobre Plantio: Escolha o Local de Plantio",
+        "description": "Escolha um local adequado para o plantio, levando em consideração a exposição ao sol e o tipo de solo.",
+        "category": "Plantio"
+    },
+    {
+        "id": 37,
+        "title": "Dica sobre Irrigação: Sistema de Irrigação Inteligente",
+        "description": "Instale um sistema de irrigação inteligente que regula automaticamente o fluxo de água com base na umidade do solo.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 38,
+        "title": "Dica sobre Pragas: Controle de Catrápulas",
+        "description": "Controle as catrápulas usando armadilhas ou repelentes naturais.",
+        "category": "Pragas"
+    },
+    {
+        "id": 39,
+        "title": "Dica sobre Fertilização: Fertilização de Fundo",
+        "description": "Aplique fertilizantes de fundo durante o preparo do solo para garantir que as raízes tenham um bom fornecimento de nutrientes.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 40,
+        "title": "Dica sobre Colheita: Colheita de Folhagens",
+        "description": "Corte as folhas na base para garantir que a planta continue a crescer e produza novas folhas.",
+        "category": "Colheita"
+    },
+    {
+        "id": 41,
+        "title": "Dica sobre Plantio: Preparo do Solo para Arroz",
+        "description": "Para o plantio de arroz, prepare o solo com boa drenagem e irrigação, evitando áreas com excesso de água.",
+        "category": "Plantio"
+    },
+    {
+        "id": 42,
+        "title": "Dica sobre Irrigação: Aproveitamento da Água da Chuva",
+        "description": "Instale sistemas de captação de água da chuva para reduzir o custo de irrigação, especialmente em períodos de seca.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 43,
+        "title": "Dica sobre Pragas: Controle de Cochonilhas",
+        "description": "Aplique óleo mineral ou produtos biológicos para controlar a infestação de cochonilhas em suas plantas.",
+        "category": "Pragas"
+    },
+    {
+        "id": 44,
+        "title": "Dica sobre Fertilização: Uso de Microrganismos do Solo",
+        "description": "Utilize inoculantes biológicos com microrganismos que ajudam a melhorar a absorção de nutrientes pelas plantas.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 45,
+        "title": "Dica sobre Colheita: Evite Colher no Clima Muito Quente",
+        "description": "Evite colher no calor extremo do meio-dia, pois isso pode danificar os produtos. Prefira manhãs ou finais de tarde.",
+        "category": "Colheita"
+    },
+    {
+        "id": 46,
+        "title": "Dica sobre Plantio: Plantio de Legumes em Vasos",
+        "description": "Para quem tem pouco espaço, plante legumes como alface, rúcula e cenoura em vasos. Eles crescem bem em ambientes controlados.",
+        "category": "Plantio"
+    },
+    {
+        "id": 47,
+        "title": "Dica sobre Irrigação: Controle de Vazamentos",
+        "description": "Verifique regularmente seu sistema de irrigação para evitar vazamentos, o que pode causar desperdício de água.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 48,
+        "title": "Dica sobre Pragas: Prevenção de Mosquitos",
+        "description": "Coloque armadilhas de luz para atrair e capturar mosquitos, evitando que se proliferem nas plantações.",
+        "category": "Pragas"
+    },
+    {
+        "id": 49,
+        "title": "Dica sobre Fertilização: Fertilizante para Hortas",
+        "description": "Use fertilizantes com alto teor de potássio para melhorar a qualidade e o sabor de hortaliças, como tomates e pimentões.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 50,
+        "title": "Dica sobre Colheita: Poda de Frutas",
+        "description": "Realize a poda de frutíferas após a colheita para melhorar o crescimento e aumentar a produção na próxima safra.",
+        "category": "Colheita"
+    },
+    {
+        "id": 51,
+        "title": "Dica sobre Plantio: Plantio de Árvores Frutíferas",
+        "description": "Ao plantar árvores frutíferas, escolha variedades que sejam resistentes a pragas e que se adaptem bem ao clima local.",
+        "category": "Plantio"
+    },
+    {
+        "id": 52,
+        "title": "Dica sobre Irrigação: Irrigação Noturna",
+        "description": "Evite irrigar durante o dia quente, pois isso pode evaporar rapidamente. A irrigação à noite é mais eficiente.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 53,
+        "title": "Dica sobre Pragas: Controle de Ácaros",
+        "description": "Use produtos naturais como óleo de neem para controlar a infestação de ácaros nas folhas das plantas.",
+        "category": "Pragas"
+    },
+    {
+        "id": 54,
+        "title": "Dica sobre Fertilização: Fertilização para Plantas de Folhagem",
+        "description": "Para plantas de folhagem, use fertilizantes ricos em nitrogênio para promover o crescimento de folhas verdes e saudáveis.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 55,
+        "title": "Dica sobre Colheita: Cuidados com a Colheita de Flores",
+        "description": "Para preservar a vida das flores, colha-as logo pela manhã, quando os nutrientes estão mais concentrados nas pétalas.",
+        "category": "Colheita"
+    },
+    {
+        "id": 56,
+        "title": "Dica sobre Plantio: Preparo do Solo para Tomateiros",
+        "description": "Prepare o solo para tomateiros com boa drenagem e incorpore composto orgânico para garantir o crescimento saudável.",
+        "category": "Plantio"
+    },
+    {
+        "id": 57,
+        "title": "Dica sobre Irrigação: Uso de Irrigação Automatizada",
+        "description": "Adote sistemas automatizados de irrigação para garantir a quantidade certa de água sem desperdícios.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 58,
+        "title": "Dica sobre Pragas: Controle de Traça",
+        "description": "Coloque armadilhas adesivas para controlar traças nas plantações, especialmente em hortas de folhas.",
+        "category": "Pragas"
+    },
+    {
+        "id": 59,
+        "title": "Dica sobre Fertilização: Uso de Cinzas de Madeira",
+        "description": "As cinzas de madeira podem ser usadas como fertilizante natural, fornecendo potássio e outros minerais para o solo.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 60,
+        "title": "Dica sobre Colheita: Colheita de Grãos de Milho",
+        "description": "Colha o milho quando os grãos estiverem firmes e cheios, e as espigas começarem a ficar secas na base.",
+        "category": "Colheita"
+    },
+    {
+        "id": 61,
+        "title": "Dica sobre Plantio: Proteção Contra Geada",
+        "description": "Use coberturas ou estufas para proteger as plantas contra geadas em períodos de clima frio.",
+        "category": "Plantio"
+    },
+    {
+        "id": 62,
+        "title": "Dica sobre Irrigação: Sistema de Irrigação por Aspersão",
+        "description": "O sistema de irrigação por aspersão é eficaz para grandes áreas, mas deve ser usado com cuidado para evitar o desperdício de água.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 63,
+        "title": "Dica sobre Pragas: Controle de Besouros",
+        "description": "Utilize predadores naturais, como joaninhas, para controlar a população de besouros em suas plantas.",
+        "category": "Pragas"
+    },
+    {
+        "id": 64,
+        "title": "Dica sobre Fertilização: Fertilização com Esterco",
+        "description": "O esterco bem curtido é um excelente fertilizante orgânico que melhora a estrutura do solo e fornece nutrientes.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 65,
+        "title": "Dica sobre Colheita: Armazenamento de Grãos",
+        "description": "Guarde os grãos em locais secos e ventilados para evitar o crescimento de fungos e o apodrecimento.",
+        "category": "Colheita"
+    },
+    {
+        "id": 66,
+        "title": "Dica sobre Plantio: Uso de Mudas de Qualidade",
+        "description": "Utilize mudas de qualidade e de fornecedores confiáveis para garantir o bom desenvolvimento da cultura.",
+        "category": "Plantio"
+    },
+    {
+        "id": 67,
+        "title": "Dica sobre Irrigação: Controle de Salinização do Solo",
+        "description": "A irrigação excessiva pode aumentar a salinização do solo. Utilize sistemas eficientes para minimizar esse problema.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 68,
+        "title": "Dica sobre Pragas: Controle de Nematóides",
+        "description": "Use plantas que repelem nematóides ou aplique nematicidas biológicos para controlar a infestação.",
+        "category": "Pragas"
+    },
+    {
+        "id": 69,
+        "title": "Dica sobre Fertilização: Aplicação de Micorrizas",
+        "description": "As micorrizas são fungos benéficos que ajudam na absorção de nutrientes pelas raízes. Use-os para melhorar o crescimento das plantas.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 70,
+        "title": "Dica sobre Colheita: Colheita de Alho",
+        "description": "Colha o alho quando as folhas começarem a secar e a planta atingir a maturidade, para garantir bulbos de boa qualidade.",
+        "category": "Colheita"
+    },
+    {
+        "id": 71,
+        "title": "Dica sobre Plantio: Suporte para Plantas Trepadeiras",
+        "description": "Instale suportes adequados, como cercas ou treliças, para plantas trepadeiras, como feijão e pepino.",
+        "category": "Plantio"
+    },
+    {
+        "id": 72,
+        "title": "Dica sobre Irrigação: Evite Irrigar em Horários de Vento Forte",
+        "description": "Evite irrigar quando o vento estiver forte, pois ele pode espalhar a água e prejudicar o rendimento.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 73,
+        "title": "Dica sobre Pragas: Proteção Contra Lagartas",
+        "description": "Instale telas de proteção ou utilize defensivos naturais para controlar as lagartas nas plantações.",
+        "category": "Pragas"
+    },
+    {
+        "id": 74,
+        "title": "Dica sobre Fertilização: Uso de Micronutrientes",
+        "description": "Adicione micronutrientes como ferro, zinco e manganês ao solo, para garantir a saúde e o bom desenvolvimento das plantas.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 75,
+        "title": "Dica sobre Colheita: Colheita de Batatas",
+        "description": "Colha as batatas quando as folhas começarem a secar, e o solo estiver firme.",
+        "category": "Colheita"
+    },
+    {
+        "id": 76,
+        "title": "Dica sobre Plantio: Plantio em Solo Ácido",
+        "description": "Para solos ácidos, adicione calcário para corrigir a acidez e melhorar o crescimento das plantas.",
+        "category": "Plantio"
+    },
+    {
+        "id": 77,
+        "title": "Dica sobre Irrigação: Evite Uso Excessivo de Fertilizantes Solúveis",
+        "description": "Evite o uso excessivo de fertilizantes solúveis, que podem prejudicar as raízes. Prefira a aplicação gradual.",
+        "category": "Irrigação"
+    },
+    {
+        "id": 78,
+        "title": "Dica sobre Pragas: Controle de Besouro do Amendoim",
+        "description": "Utilize armadilhas de feromônio para capturar e controlar a infestação do besouro do amendoim.",
+        "category": "Pragas"
+    },
+    {
+        "id": 79,
+        "title": "Dica sobre Fertilização: Fertilização de Plantas Anuais",
+        "description": "Aplique fertilizantes ricos em fósforo e potássio nas plantas anuais para promover uma colheita de qualidade.",
+        "category": "Fertilização"
+    },
+    {
+        "id": 80,
+        "title": "Dica sobre Colheita: Recolha de Produtos Hortícolas",
+        "description": "Recolha os produtos hortícolas logo cedo para evitar que o calor do dia prejudique sua conservação.",
+        "category": "Colheita"
+    }
+]

@@ -1,0 +1,2664 @@
+[
+  {
+    "nome": "Ácaro-rajado 1",
+    "nomeCientifico": "Tetranychus urticae var. A",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Carvalho)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 2",
+    "nomeCientifico": "Spodoptera frugiperda var. B",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Farias)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 3",
+    "nomeCientifico": "Bemisia tabaci var. C",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Gomes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 4",
+    "nomeCientifico": "Spodoptera frugiperda var. D",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Castro)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 5",
+    "nomeCientifico": "Spodoptera frugiperda var. E",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Conceição Alegre)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 6",
+    "nomeCientifico": "Tetranychus urticae var. F",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Moreira)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 7",
+    "nomeCientifico": "Spodoptera frugiperda var. G",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Carvalho de Azevedo)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 8",
+    "nomeCientifico": "Spodoptera frugiperda var. H",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Vieira)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 9",
+    "nomeCientifico": "Spodoptera frugiperda var. I",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Souza)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 10",
+    "nomeCientifico": "Spodoptera frugiperda var. J",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Cardoso)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 11",
+    "nomeCientifico": "Bemisia tabaci var. K",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Cardoso)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 12",
+    "nomeCientifico": "Bemisia tabaci var. L",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Araújo de Goiás)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 13",
+    "nomeCientifico": "Spodoptera frugiperda var. M",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Aragão)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 14",
+    "nomeCientifico": "Bemisia tabaci var. N",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Azevedo da Mata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 15",
+    "nomeCientifico": "Tetranychus urticae var. O",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Pereira)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 16",
+    "nomeCientifico": "Tetranychus urticae var. P",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Dias)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 17",
+    "nomeCientifico": "Tetranychus urticae var. Q",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Campos)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 18",
+    "nomeCientifico": "Bemisia tabaci var. R",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Viana)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 19",
+    "nomeCientifico": "Tetranychus urticae var. S",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Gomes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 20",
+    "nomeCientifico": "Bemisia tabaci var. T",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Moreira de Minas)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 21",
+    "nomeCientifico": "Spodoptera frugiperda var. U",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Jesus)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 22",
+    "nomeCientifico": "Bemisia tabaci var. V",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Gomes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 23",
+    "nomeCientifico": "Spodoptera frugiperda var. W",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Lima Grande)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 24",
+    "nomeCientifico": "Spodoptera frugiperda var. X",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Sales)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 25",
+    "nomeCientifico": "Tetranychus urticae var. Y",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Caldeira de Correia)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 26",
+    "nomeCientifico": "Spodoptera frugiperda var. Z",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Gonçalves de Goiás)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 27",
+    "nomeCientifico": "Spodoptera frugiperda var. A",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Santos)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 28",
+    "nomeCientifico": "Bemisia tabaci var. B",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Porto do Amparo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 29",
+    "nomeCientifico": "Bemisia tabaci var. C",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Nascimento de Pinto)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 30",
+    "nomeCientifico": "Spodoptera frugiperda var. D",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Correia)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 31",
+    "nomeCientifico": "Tetranychus urticae var. E",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Cardoso Verde)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 32",
+    "nomeCientifico": "Bemisia tabaci var. F",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Barros)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 33",
+    "nomeCientifico": "Bemisia tabaci var. G",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em da Luz)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 34",
+    "nomeCientifico": "Spodoptera frugiperda var. H",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Rodrigues)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 35",
+    "nomeCientifico": "Bemisia tabaci var. I",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Melo das Flores)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 36",
+    "nomeCientifico": "Spodoptera frugiperda var. J",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Rocha das Flores)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 37",
+    "nomeCientifico": "Bemisia tabaci var. K",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Sales)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 38",
+    "nomeCientifico": "Bemisia tabaci var. L",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Pires de Minas)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 39",
+    "nomeCientifico": "Bemisia tabaci var. M",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em da Rocha Verde)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 40",
+    "nomeCientifico": "Spodoptera frugiperda var. N",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Moraes)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 41",
+    "nomeCientifico": "Spodoptera frugiperda var. O",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Barbosa)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 42",
+    "nomeCientifico": "Bemisia tabaci var. P",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Aragão)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 43",
+    "nomeCientifico": "Spodoptera frugiperda var. Q",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Costela de Costela)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 44",
+    "nomeCientifico": "Bemisia tabaci var. R",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Almeida da Prata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 45",
+    "nomeCientifico": "Bemisia tabaci var. S",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Pereira Grande)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 46",
+    "nomeCientifico": "Tetranychus urticae var. T",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Rodrigues Alegre)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 47",
+    "nomeCientifico": "Bemisia tabaci var. U",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Rocha das Flores)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 48",
+    "nomeCientifico": "Spodoptera frugiperda var. V",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Caldeira)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 49",
+    "nomeCientifico": "Tetranychus urticae var. W",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Costa Grande)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 50",
+    "nomeCientifico": "Tetranychus urticae var. X",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Costa do Campo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 51",
+    "nomeCientifico": "Bemisia tabaci var. Y",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Mendes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 52",
+    "nomeCientifico": "Tetranychus urticae var. Z",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Correia)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 53",
+    "nomeCientifico": "Bemisia tabaci var. A",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Farias)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 54",
+    "nomeCientifico": "Bemisia tabaci var. B",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em da Rosa)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 55",
+    "nomeCientifico": "Spodoptera frugiperda var. C",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Ribeiro)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 56",
+    "nomeCientifico": "Tetranychus urticae var. D",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Mata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 57",
+    "nomeCientifico": "Spodoptera frugiperda var. E",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Nascimento de Cavalcanti)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 58",
+    "nomeCientifico": "Bemisia tabaci var. F",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Duarte Paulista)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 59",
+    "nomeCientifico": "Tetranychus urticae var. G",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Novaes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 60",
+    "nomeCientifico": "Bemisia tabaci var. H",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em da Cruz)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 61",
+    "nomeCientifico": "Bemisia tabaci var. I",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Peixoto da Praia)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 62",
+    "nomeCientifico": "Tetranychus urticae var. J",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Caldeira)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 63",
+    "nomeCientifico": "Tetranychus urticae var. K",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Ferreira do Campo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 64",
+    "nomeCientifico": "Bemisia tabaci var. L",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Farias de Goiás)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 65",
+    "nomeCientifico": "Tetranychus urticae var. M",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Jesus)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 66",
+    "nomeCientifico": "Tetranychus urticae var. N",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Caldeira do Amparo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 67",
+    "nomeCientifico": "Spodoptera frugiperda var. O",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Farias)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 68",
+    "nomeCientifico": "Bemisia tabaci var. P",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Dias do Sul)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 69",
+    "nomeCientifico": "Spodoptera frugiperda var. Q",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Caldeira de Teixeira)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 70",
+    "nomeCientifico": "Spodoptera frugiperda var. R",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Paz de Moraes)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 71",
+    "nomeCientifico": "Tetranychus urticae var. S",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Melo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 72",
+    "nomeCientifico": "Tetranychus urticae var. T",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Luz da Mata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 73",
+    "nomeCientifico": "Tetranychus urticae var. U",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Mota da Praia)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 74",
+    "nomeCientifico": "Spodoptera frugiperda var. V",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Novaes de Porto)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 75",
+    "nomeCientifico": "Bemisia tabaci var. W",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Pires)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 76",
+    "nomeCientifico": "Tetranychus urticae var. X",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Melo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 77",
+    "nomeCientifico": "Spodoptera frugiperda var. Y",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Novaes)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 78",
+    "nomeCientifico": "Tetranychus urticae var. Z",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Viana do Galho)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 79",
+    "nomeCientifico": "Spodoptera frugiperda var. A",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Costela)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 80",
+    "nomeCientifico": "Tetranychus urticae var. B",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Ferreira de da Paz)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 81",
+    "nomeCientifico": "Tetranychus urticae var. C",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Gonçalves da Serra)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 82",
+    "nomeCientifico": "Tetranychus urticae var. D",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Azevedo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 83",
+    "nomeCientifico": "Spodoptera frugiperda var. E",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Moraes)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 84",
+    "nomeCientifico": "Tetranychus urticae var. F",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Almeida de Monteiro)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 85",
+    "nomeCientifico": "Tetranychus urticae var. G",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Farias)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 86",
+    "nomeCientifico": "Spodoptera frugiperda var. H",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Gomes dos Dourados)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 87",
+    "nomeCientifico": "Bemisia tabaci var. I",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Lopes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 88",
+    "nomeCientifico": "Tetranychus urticae var. J",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Rodrigues dos Dourados)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 89",
+    "nomeCientifico": "Spodoptera frugiperda var. K",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Pires do Campo)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 90",
+    "nomeCientifico": "Bemisia tabaci var. L",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Nunes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 91",
+    "nomeCientifico": "Spodoptera frugiperda var. M",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Silveira do Norte)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 92",
+    "nomeCientifico": "Tetranychus urticae var. N",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Campos das Pedras)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 93",
+    "nomeCientifico": "Bemisia tabaci var. O",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em da Mota de Nogueira)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 94",
+    "nomeCientifico": "Bemisia tabaci var. P",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Moura do Sul)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 95",
+    "nomeCientifico": "Tetranychus urticae var. Q",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Pires)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 96",
+    "nomeCientifico": "Spodoptera frugiperda var. R",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Lima)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 97",
+    "nomeCientifico": "Spodoptera frugiperda var. S",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Cunha Verde)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 98",
+    "nomeCientifico": "Spodoptera frugiperda var. T",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Carvalho)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 99",
+    "nomeCientifico": "Tetranychus urticae var. U",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Porto)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 100",
+    "nomeCientifico": "Bemisia tabaci var. V",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Nascimento)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 101",
+    "nomeCientifico": "Tetranychus urticae var. W",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Moreira de Barros)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 102",
+    "nomeCientifico": "Bemisia tabaci var. X",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Gomes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 103",
+    "nomeCientifico": "Spodoptera frugiperda var. Y",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Conceição do Galho)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 104",
+    "nomeCientifico": "Spodoptera frugiperda var. Z",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Vieira da Serra)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 105",
+    "nomeCientifico": "Tetranychus urticae var. A",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Mota)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 106",
+    "nomeCientifico": "Spodoptera frugiperda var. B",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Carvalho de Almeida)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 107",
+    "nomeCientifico": "Bemisia tabaci var. C",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em da Cunha da Prata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 108",
+    "nomeCientifico": "Bemisia tabaci var. D",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Ferreira de Minas)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 109",
+    "nomeCientifico": "Bemisia tabaci var. E",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Caldeira)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 110",
+    "nomeCientifico": "Tetranychus urticae var. F",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Mata do Galho)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 111",
+    "nomeCientifico": "Tetranychus urticae var. G",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Azevedo Grande)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 112",
+    "nomeCientifico": "Spodoptera frugiperda var. H",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Nascimento)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 113",
+    "nomeCientifico": "Spodoptera frugiperda var. I",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Rosa)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 114",
+    "nomeCientifico": "Spodoptera frugiperda var. J",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Azevedo)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 115",
+    "nomeCientifico": "Spodoptera frugiperda var. K",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Nunes de da Paz)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 116",
+    "nomeCientifico": "Tetranychus urticae var. L",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Cunha)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 117",
+    "nomeCientifico": "Tetranychus urticae var. M",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Araújo Verde)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 118",
+    "nomeCientifico": "Tetranychus urticae var. N",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Lopes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 119",
+    "nomeCientifico": "Tetranychus urticae var. O",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Mata do Galho)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 120",
+    "nomeCientifico": "Spodoptera frugiperda var. P",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Sales)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 121",
+    "nomeCientifico": "Tetranychus urticae var. Q",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Cardoso)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 122",
+    "nomeCientifico": "Bemisia tabaci var. R",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Carvalho)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 123",
+    "nomeCientifico": "Tetranychus urticae var. S",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Luz)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 124",
+    "nomeCientifico": "Bemisia tabaci var. T",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em da Mata da Prata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 125",
+    "nomeCientifico": "Tetranychus urticae var. U",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Costa)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 126",
+    "nomeCientifico": "Spodoptera frugiperda var. V",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Conceição)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 127",
+    "nomeCientifico": "Bemisia tabaci var. W",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Vieira)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 128",
+    "nomeCientifico": "Bemisia tabaci var. X",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Barbosa da Prata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 129",
+    "nomeCientifico": "Bemisia tabaci var. Y",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Martins Paulista)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 130",
+    "nomeCientifico": "Tetranychus urticae var. Z",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Gomes da Praia)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 131",
+    "nomeCientifico": "Tetranychus urticae var. A",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Moraes da Prata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 132",
+    "nomeCientifico": "Spodoptera frugiperda var. B",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Freitas)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 133",
+    "nomeCientifico": "Spodoptera frugiperda var. C",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Oliveira das Pedras)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 134",
+    "nomeCientifico": "Tetranychus urticae var. D",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Moreira do Amparo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 135",
+    "nomeCientifico": "Bemisia tabaci var. E",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Moura)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 136",
+    "nomeCientifico": "Tetranychus urticae var. F",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Gonçalves da Praia)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 137",
+    "nomeCientifico": "Tetranychus urticae var. G",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Costela da Praia)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 138",
+    "nomeCientifico": "Spodoptera frugiperda var. H",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Melo)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 139",
+    "nomeCientifico": "Bemisia tabaci var. I",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Jesus)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 140",
+    "nomeCientifico": "Tetranychus urticae var. J",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Rosa do Galho)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 141",
+    "nomeCientifico": "Spodoptera frugiperda var. K",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Rocha)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 142",
+    "nomeCientifico": "Tetranychus urticae var. L",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Mata do Amparo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 143",
+    "nomeCientifico": "Spodoptera frugiperda var. M",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Moura da Praia)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 144",
+    "nomeCientifico": "Spodoptera frugiperda var. N",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Cunha)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 145",
+    "nomeCientifico": "Tetranychus urticae var. O",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Campos do Amparo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 146",
+    "nomeCientifico": "Spodoptera frugiperda var. P",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Almeida da Serra)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 147",
+    "nomeCientifico": "Spodoptera frugiperda var. Q",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Nascimento)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 148",
+    "nomeCientifico": "Tetranychus urticae var. R",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Monteiro)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 149",
+    "nomeCientifico": "Tetranychus urticae var. S",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Sales)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 150",
+    "nomeCientifico": "Tetranychus urticae var. T",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Araújo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 151",
+    "nomeCientifico": "Tetranychus urticae var. U",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Costa de Ramos)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 152",
+    "nomeCientifico": "Bemisia tabaci var. V",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Duarte Alegre)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 153",
+    "nomeCientifico": "Tetranychus urticae var. W",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Luz Alegre)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 154",
+    "nomeCientifico": "Spodoptera frugiperda var. X",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Cardoso)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 155",
+    "nomeCientifico": "Tetranychus urticae var. Y",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Martins de Duarte)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 156",
+    "nomeCientifico": "Spodoptera frugiperda var. Z",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Costa de Campos)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 157",
+    "nomeCientifico": "Bemisia tabaci var. A",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Pires)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 158",
+    "nomeCientifico": "Tetranychus urticae var. B",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Fernandes das Flores)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 159",
+    "nomeCientifico": "Tetranychus urticae var. C",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Pires da Praia)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 160",
+    "nomeCientifico": "Bemisia tabaci var. D",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Fogaça das Pedras)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 161",
+    "nomeCientifico": "Tetranychus urticae var. E",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Mata Grande)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 162",
+    "nomeCientifico": "Bemisia tabaci var. F",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Cardoso de Mendes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 163",
+    "nomeCientifico": "Spodoptera frugiperda var. G",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Viana das Flores)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 164",
+    "nomeCientifico": "Tetranychus urticae var. H",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Peixoto)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 165",
+    "nomeCientifico": "Spodoptera frugiperda var. I",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Cardoso)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 166",
+    "nomeCientifico": "Tetranychus urticae var. J",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Alves de Minas)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 167",
+    "nomeCientifico": "Spodoptera frugiperda var. K",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Moura)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 168",
+    "nomeCientifico": "Bemisia tabaci var. L",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Ramos do Amparo)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 169",
+    "nomeCientifico": "Bemisia tabaci var. M",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Correia Grande)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 170",
+    "nomeCientifico": "Spodoptera frugiperda var. N",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Carvalho)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 171",
+    "nomeCientifico": "Bemisia tabaci var. O",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Costela)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 172",
+    "nomeCientifico": "Bemisia tabaci var. P",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em da Rosa Paulista)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 173",
+    "nomeCientifico": "Bemisia tabaci var. Q",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Pires)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 174",
+    "nomeCientifico": "Spodoptera frugiperda var. R",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Gonçalves de Mendes)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 175",
+    "nomeCientifico": "Bemisia tabaci var. S",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Nogueira Grande)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 176",
+    "nomeCientifico": "Bemisia tabaci var. T",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Lima)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 177",
+    "nomeCientifico": "Spodoptera frugiperda var. U",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Mota da Prata)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 178",
+    "nomeCientifico": "Spodoptera frugiperda var. V",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Araújo)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 179",
+    "nomeCientifico": "Bemisia tabaci var. W",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Oliveira)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 180",
+    "nomeCientifico": "Tetranychus urticae var. X",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Santos)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 181",
+    "nomeCientifico": "Bemisia tabaci var. Y",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Duarte de Mendes)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 182",
+    "nomeCientifico": "Spodoptera frugiperda var. Z",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Luz de Moreira)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 183",
+    "nomeCientifico": "Bemisia tabaci var. A",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em da Rosa da Prata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 184",
+    "nomeCientifico": "Tetranychus urticae var. B",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Costa de da Mata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 185",
+    "nomeCientifico": "Tetranychus urticae var. C",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Fogaça)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 186",
+    "nomeCientifico": "Bemisia tabaci var. D",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Silva)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 187",
+    "nomeCientifico": "Tetranychus urticae var. E",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Souza da Mata)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 188",
+    "nomeCientifico": "Spodoptera frugiperda var. F",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Peixoto do Campo)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 189",
+    "nomeCientifico": "Tetranychus urticae var. G",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Conceição de Castro)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 190",
+    "nomeCientifico": "Spodoptera frugiperda var. H",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em da Rosa)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 191",
+    "nomeCientifico": "Tetranychus urticae var. I",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em da Luz de Fogaça)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 192",
+    "nomeCientifico": "Bemisia tabaci var. J",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Ribeiro da Serra)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 193",
+    "nomeCientifico": "Tetranychus urticae var. K",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em das Neves)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 194",
+    "nomeCientifico": "Bemisia tabaci var. L",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Freitas)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 195",
+    "nomeCientifico": "Spodoptera frugiperda var. M",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Costela da Prata)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 196",
+    "nomeCientifico": "Spodoptera frugiperda var. N",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Caldeira)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 197",
+    "nomeCientifico": "Spodoptera frugiperda var. O",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Barros do Galho)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Mosca-branca 198",
+    "nomeCientifico": "Bemisia tabaci var. P",
+    "cultura": [
+      "soja",
+      "feijão",
+      "algodão",
+      "tomate"
+    ],
+    "descricao": "Inseto sugador que transmite viroses. (caso identificado em Peixoto de Minas)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Armadilhas adesivas e inseticidas seletivos.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Lagarta-do-cartucho 199",
+    "nomeCientifico": "Spodoptera frugiperda var. Q",
+    "cultura": [
+      "milho",
+      "algodão",
+      "soja"
+    ],
+    "descricao": "Lagarta que se aloja no cartucho da planta e consome as folhas. (caso identificado em Santos da Prata)",
+    "nivelInfestacao": "severo",
+    "tratamento": "Controle biológico com Bacillus thuringiensis.",
+    "fonte": "https://blog.aegro.com.br/pragas-agricolas/"
+  },
+  {
+    "nome": "Ácaro-rajado 200",
+    "nomeCientifico": "Tetranychus urticae var. R",
+    "cultura": [
+      "feijão",
+      "morango",
+      "algodão"
+    ],
+    "descricao": "Ácaro que suga a seiva das plantas, causando manchas. (caso identificado em Vieira)",
+    "nivelInfestacao": "moderado",
+    "tratamento": "Aplicação de acaricidas e controle biológico.",
+    "fonte": "https://blog.agrointeli.com.br/blog/principais-pragas-agricolas/"
+  }
+]
